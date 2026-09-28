@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+streamlit-*.log
+
+# Local uploaded/generated data
+data/*.pdf
+data/*.faiss
+data/*.pkl
